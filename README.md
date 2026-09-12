@@ -14,4 +14,4 @@ Job Portal	Recruitment platform connecting candidates & employers, JWT auth, CV 
 Contact
 hoanghongphucgl123@gmail.com
 📍Ho Chi Minh City, Vietnam
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HongPhuc2511&show_icons=true&theme=default" alt="Phuc's GitHub stats" /> </p>
+
