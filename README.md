@@ -81,19 +81,3 @@
 </table>
 
 <hr />
-
-<div align="center">
-
-  ### 📫 Connect with Me
-
-  <p>
-    <a href="mailto:hoanghongphucgl123@gmail.com">
-      <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=HongPhuc2511&color=007ACC&style=flat-square" alt="Profile views" />
-  </p>
-
-</div>
