@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Backend+%26+Full-Stack+Developer;Django+%E2%80%A2+Flask+%E2%80%A2+React+%E2%80%A2+React+Native" alt="Typing SVG" />
   </a>
 
-  <p><b>Final-year Software Engineering Student @ Open University</b><br>
+  <p><b>Final-year Software Engineering Student of Open University</b><br>
   Passionate about building scalable RESTful APIs, data-driven systems, and modern web/mobile applications.</p>
 
 </div>
