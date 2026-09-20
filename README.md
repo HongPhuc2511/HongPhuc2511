@@ -15,7 +15,7 @@
 
 <hr />
 
-### 🤓 About Me
+###  About Me
 
 - 🎓 **Education:** Open University (2023 - 2027) | Major: Information Technology / Software Engineering
 - 📜 **Certificates:** Samsung Innovation Campus  *AI / Machine Learning Track*
