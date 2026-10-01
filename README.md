@@ -19,7 +19,7 @@
 
 - 🎓 **Education:** Open University (2023 - 2027) Major: Information Technology 
 - 📜 **Certificates:** Samsung Innovation Campus  *AI / Machine Learning Track*
-- 🎯 **Current Focus:** Building Full-Stack web/mobile projects, exploring AI/ML applications & Graph Neural Networks
+- 🎯 **Current Focus:** Building Full-Stack web/mobile projects, exploring AI/ML applications and Graph Neural Networks
 - 📍 **Location:** Ho Chi Minh City, Vietnam
 
 <hr />
