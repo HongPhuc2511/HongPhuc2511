@@ -49,7 +49,7 @@
 | :--- | :--- | :--- |
 | **HealthMate** | Cross-platform mobile health and fitness app connecting users with coaches, workout/meal planning, activity tracking, and real-time chat. | React Native (Expo), Django REST, MySQL |
 | **Restaurant Management** | Full-stack restaurant system with online table booking, menu management, RBAC, OAuth2, VNPay payment, and Cloudinary storage. | React, Django REST, MySQL, VNPay |
-| **Job Portal System** | Recruitment platform connecting candidates & employers with CV builder, job postings, JWT auth, and real-time chat. | React, Flask, TypeScript, MySQL |
+| **Job Portal System** | Recruitment platform connecting candidates and employers with CV builder, job postings, JWT auth, and real-time chat. | React, Flask, TypeScript, MySQL |
 | **OU Apartment** | Apartment listing & rental search platform with detailed filter options and dynamic views. | React, Flask, MySQL |
 
 <hr />
